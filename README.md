@@ -47,7 +47,7 @@ Nicco: Das war nicht bei der OpentechSchool sondern bei einer User-Group, der Ru
 
 Interviewer: Nicco.findall("\S+ User Group")?
 
-Nicco: Ja richtig, es gibt auch noch andere Nutzer Gruppen. Im Prinzip zu allem, was man so nutzen kann. Joomla, PHP oder beliebte wie Python.*[Dieser Satz sollte überarbeitet werden. Anmerkung des Lektors.] Neulich war ich beim Raspberry Pi Jam. Danach war ich motiviert, den Raspberry Pi auch zu verwenden. 
+Nicco: Ja richtig, es gibt auch noch andere Nutzer Gruppen. Im Prinzip zu allem, was man so nutzen kann. Joomla, PHP oder beliebte wie Python.*[Dieser Satz sollte überarbeitet werden. Anmerkung des Lektors.] Neulich war ich beim Raspberry Pi Jam. Danach war ich motiviert, den Raspberry Pi auch zu verwenden. In Potsdam habe ich die uplug und die Freifunker gefunden.
 
 Der Medaillie zweiter Teil: Was beibringen
 
